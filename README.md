@@ -10,3 +10,5 @@ Coleção de códigos e soluções para exercícios da disciplina "Projeto e An�
 
 # Links
 [Exercícios sobre Indução Matemática e Complexidade de Algoritmos](https://htmlpreview.github.io/?https://github.com/davidferraz01/Projeto-e-Analise-de-Algoritmos/blob/ae9301560c1ea3b5719d7c2ed240d53199f8810c/Induc%CC%A7a%CC%83o%20Matema%CC%81tica%20e%20Complexidade%20de%20Algoritmos.html)
+
+** Obeservação: ** Repositório em atualização! Ainda será adicionado mais links contendo exercícios a respeito de outros tópicos de Projeto e Análise de Algoritmos.
