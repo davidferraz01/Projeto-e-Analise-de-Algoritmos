@@ -1,2 +1,9 @@
-# Projeto-e-Analise-de-Algoritmos
-Coleção de códigos e soluções para exercícios da disciplina "Projeto e Análise de Algoritmos". 
+# Projeto e Análise de Algoritmos
+Coleção de códigos e soluções para exercícios da disciplina "Projeto e Análise de Algoritmos". A disciplina aborda conceitos fundamentais relacionados ao projeto, análise e otimização de algoritmos. Esse repositório foi desenvolvido como parte do estudo realizado na disciplina de Projeto e Análise de Algoritmos e contém soluções de exercícios que abrangem os Principais Tópicos da disciplina, como:
+- Algoritmos de Busca e Ordenação
+- Programação Dinâmica e Memoização
+- Algoritmos Gulosos
+- Grafos e Algoritmos de Grafos
+- Estruturas de Dados Avançadas
+- Análise de Complexidade
+- Projetos e Desafios
